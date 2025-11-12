@@ -78,7 +78,7 @@ cd android && ./gradlew assembleRelease
 
 Author
 Abhi
-React Native & Node.js Developer
+Human Being (:
 GitHub: https://github.com/AbhiSahane0
 
 
